@@ -1,21 +1,6 @@
 #  File: Reducible.py
-
-#  Description:
-
-#  Student Name: K. Amber Vasquez   
-
-#  Student UT EID: kav835
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber
 #  Date Created: 10/27/2020
-
 #  Date Last Modified: 10/30/2020
 
 # Input: takes as input a positive integer n
