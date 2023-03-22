@@ -1,17 +1,7 @@
 #  File: recursion1.py 
-
 #  Description: recursion functions 
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber 
 #  Date Created: Oct 5  
-
 #  Date Last Modified: Oct 7
 
 
