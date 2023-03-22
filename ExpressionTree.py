@@ -1,21 +1,6 @@
 #  File: ExpressionTree.py
-
-#  Description:
-
-#  Student's Name: K. Amber Vasquez
-
-#  Student's UT EID: kav835
-
-#  Partner's Name:
-
-#  Partner's UT EID:
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 50845
-
+#  Student's Name: Amber
 #  Date Created: 11/11/2020
-
 #  Date Last Modified: 11/12/2020
 
 
