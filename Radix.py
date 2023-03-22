@@ -1,22 +1,8 @@
 #  File: Radix.py
-
 #  Description: modify the Radix Sort algorithm 
 # so that it sorts strings that have a mix of lower case letters and digits
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845 
-
+#  Student Name: Amber 
 #  Date Created: 10/30/2020
-
 #  Date Last Modified: 11/2/2020
 
 import sys
