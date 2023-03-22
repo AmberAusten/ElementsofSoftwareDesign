@@ -1,21 +1,6 @@
 #  File: TestBinaryTree.py
-
-#  Description:
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber 
 #  Date Created: 11/17/2020
-
 #  Date Last Modified: 11/20/2020
 
 # In the class TestBinaryTree you will create several trees 
