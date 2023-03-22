@@ -1,22 +1,9 @@
 
 #  File: Grid.py
-
 #  Description: prints total number of paths in the grid and greatest path sum in the grid
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name: Nicole Fox Estabrook
-
-#  Partner UT EID: nae588
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber 
+#  Partner Name: Nicole 
 #  Date Created:
-
 #  Date Last Modified: 10/30/2020
 
 import sys
