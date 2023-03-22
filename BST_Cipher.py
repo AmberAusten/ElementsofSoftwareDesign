@@ -1,21 +1,7 @@
 #  File: BST_Cipher.py
-
 #  Description: encrypts and decrypts a string using a BST 
-
-#  Student Name: K.Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber
 #  Date Created: 11/12/2020
-
 #  Date Last Modified:11/14/2020
 
 
