@@ -1,18 +1,6 @@
 #  File: Boxes.py
 
-#  Description: 
-
-#  Student Name: K. Amber Vasquez   
-
-#  Student UT EID: kav835
-
-#  Partner Name: 
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
+#  Student Name: Amber
 
 #  Date Created: 10/13
 
