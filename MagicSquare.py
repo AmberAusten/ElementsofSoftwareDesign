@@ -1,21 +1,7 @@
 #  File: MagicSquare.py
-
 #  Description: permute through a list and find the versions that are magic squares
-
-#  Student Name: K. Amber Vasquez   
-
-#  Student UT EID: kav835
-
-#  Partner Name: 
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
-#  Date Created: 10/17
-
+#  Student Name: Amber   
+#  Date Created: 10/19
 #  Date Last Modified: 10/19
 
 # checks if a 1-D list if converted to a 2-D list is magic
