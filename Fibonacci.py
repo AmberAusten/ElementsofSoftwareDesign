@@ -1,21 +1,6 @@
 # File: Fibonacci.py
-
-# Description: 
-
-# Student's Name: K. Amber Vasquez  
-
-# Student's UT EID: kav835
-
-# Partner's Name:
-
-# Partner's UT EID:
-
-# Course Name: CS 313E
-
-# Unique Number: 50845
-
+# Student's Name: Amber 
 # Date Created: Oct 7
-
 # Date Last Modified: Oct 8
 
 import sys # added import sys 11/13/2020 
