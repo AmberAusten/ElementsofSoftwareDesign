@@ -1,21 +1,7 @@
 #  File: TestLinkedList.py
-
 #  Description: Create many methods to work with Linked Lists
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name: Nicole Estabrook
-
-#  Partner UT EID: nae588
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845 
-
+#  Student Name: Amber
 #  Date Created: 11/3/2020
-
 #  Date Last Modified: 11/6/2020
 
 
