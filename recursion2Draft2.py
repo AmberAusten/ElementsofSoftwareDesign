@@ -1,21 +1,6 @@
 #  File: recursion2.py 
-
-#  Description: 
-
-#  Student Name: K. Amber Vasquez   
-
-#  Student UT EID: kav835   
-
-#  Partner's Name: 
-
-#  Partner's UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber
 #  Date Created: Oct 9
-
 #  Date Last Modified: Oct 12
 
 
