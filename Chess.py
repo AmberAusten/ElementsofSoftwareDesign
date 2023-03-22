@@ -1,19 +1,5 @@
 #  File: Chess.py
-
-#  Description:
-
-#  Student Name: K. Amber Vasquez   
-
-#  Student UT EID: kav835
-
-#  Partner Name:
-
-#  Partner UT EID:
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber
 #  Date Created: 10/20
 
 #  Date Last Modified: 10/23
