@@ -1,21 +1,6 @@
 #  File: TopoSort.py
-
-#  Description:
-
-#  Student Name: K. Amber Vasquez
-
-#  Student UT EID: kav835
-
-#  Partner Name: none   
-
-#  Partner UT EID: none 
-
-#  Course Name: CS 313E
-
-#  Unique Number: 50845
-
+#  Student Name: Amber
 #  Date Created: 11/25/2020
-
 #  Date Last Modified: 11/29/2020
 
 
